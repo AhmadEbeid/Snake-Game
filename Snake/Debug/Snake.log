@@ -1,0 +1,13 @@
+﻿Build started 10-Mar-16 7:23:13 PM.
+     1>Project "C:\Users\aebei\Documents\Visual Studio 2013\Projects\Snake\Snake\Snake.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\aebei\Documents\Visual Studio 2013\Projects\Snake\Debug\Snake.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\aebei\Documents\Visual Studio 2013\Projects\Snake\Debug\Snake.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\aebei\Documents\Visual Studio 2013\Projects\Snake\Debug\Snake.lib" /MACHINE:X86 Debug\ccc_msw.obj
+         Debug\ccc_shap.obj
+         Debug\Key.obj
+         Debug\Source.obj
+         Snake.vcxproj -> C:\Users\aebei\Documents\Visual Studio 2013\Projects\Snake\Debug\Snake.exe
+     1>Done Building Project "C:\Users\aebei\Documents\Visual Studio 2013\Projects\Snake\Snake\Snake.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.21
